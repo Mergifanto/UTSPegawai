@@ -1,8 +1,8 @@
 Nama:M.Ergifanto <br>
 Kelas:6C <br>
 NIM:18090133 <br>
-Link Heroku : 
-
+Link Heroku : https://app-crud-pegawai.herokuapp.com/list-pegawai
+Link Laporan : https://drive.google.com/file/d/13hO9ISBoikxiAFbp5yS9ksEpJCPDPYIj/view?usp=sharing
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
